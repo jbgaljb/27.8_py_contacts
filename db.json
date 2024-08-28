@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "phone_number": "+1234567890"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "phone_number": "+1987654321"
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "phone_number": "+1122334455"
+    },
+    {
+        "id": 5,
+        "name": "Charlie Green",
+        "phone_number": "+1445566778"
+    },
+    {
+        "id": "875ced2a-003f-49e8-b119-88de10a54903",
+        "name": "giti",
+        "phone_number": "0524356789"
+    }
+]
